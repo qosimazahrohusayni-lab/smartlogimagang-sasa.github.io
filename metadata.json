@@ -1,0 +1,6 @@
+{
+  "name": "ParkirGold",
+  "description": "Sistem Parkir Cerdas & Manajemen Terpadu dengan Gate POS, Validasi LPR, Cetak Struk Thermal, dan Konsol Eksekutif",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
